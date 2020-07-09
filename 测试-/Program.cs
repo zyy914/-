@@ -10,6 +10,7 @@ namespace 测试_
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();            
         }
     }
 }
